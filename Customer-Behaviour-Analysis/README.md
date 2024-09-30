@@ -4,7 +4,7 @@
 ![image]
 
 
-This project, part of a case study available here![link]([https://public.tableau.com/views/SalesDashboard_17252936237340/Dashboard?:language=en-US&publish=yes&:sid=B069084C79714456A45C733F07FBFB92-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link](https://8weeksqlchallenge.com/case-study-1/)), focuses on analyzing customer spending patterns, trends, and influencing factors to gain insights into their preferences, purchasing habits, and potential areas for improvement in menu offerings or marketing strategies for a dining establishment.
+This project, part of a case study available here![link]((https://8weeksqlchallenge.com/case-study-1/)), focuses on analyzing customer spending patterns, trends, and influencing factors to gain insights into their preferences, purchasing habits, and potential areas for improvement in menu offerings or marketing strategies for a dining establishment.
 
 ## Background
 At the beginning of 2021, Danny, a passionate lover of Japanese cuisine, decided to take a risk and open a charming little restaurant featuring his three favorite dishes: sushi, curry, and ramen. Danny’s Diner needs your help to stay afloat. Although the restaurant has collected some basic data from its initial months of operation, they are unsure how to utilize this data to improve their business.
@@ -17,7 +17,7 @@ He plans to use these insights to determine whether to expand the existing custo
 Due to privacy concerns, Danny has provided a sample of his overall customer data. He hopes these examples will be sufficient for you to write fully functioning SQL queries to help answer his questions.
 
 ## Entity Relationship
-![image]([https://github.com/frankie323/assets/blob/main/Entity%20Relationship.png)
+![image](https://github.com/frankie323/Data-Analysis-Portfolio/blob/main/Assets/Entity%20Relationship.png)
 
 ## Some insightful queries
 ** Danny also needs additional information regarding product rankings. He specifically does not require rankings for non-member purchases, so he expects NULL values for customers who are not part of the loyalty program.
