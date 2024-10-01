@@ -9,12 +9,12 @@ This is a repository to showcase skills, share projects and track my progress in
 
 - About
 - Portfolio Projects
-- Python
+ - Python
   - 
-- SQL
+ - SQL
  - 
-- Tableau
-- Power BI
+ - Tableau
+ - Power BI
 
 - Certificates
 - Contact
