@@ -1,3 +1,12 @@
 [submodule "Sales-Dashboard"]
 	path = Sales-Dashboard
 	url = https://github.com/frankie323/Sales-Dashboard
+[submodule "airbnb-dataset"]
+	path = airbnb-dataset
+	url = https://github.com/frankie323/airbnb-dataset
+[submodule "TMDB-Movies-Dataset"]
+	path = TMDB-Movies-Dataset
+	url = https://github.com/frankie323/TMDB-Movies-Dataset
+[submodule "Walmart_Sales"]
+	path = Walmart_Sales
+	url = https://github.com/frankie323/Walmart_Sales
