@@ -1,0 +1,3 @@
+[submodule "Sales-Dashboard"]
+	path = Sales-Dashboard
+	url = https://github.com/frankie323/Sales-Dashboard
