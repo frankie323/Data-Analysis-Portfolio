@@ -59,7 +59,7 @@ A searchable and sortable list of all employees that includes:
   
 Include functionality for exporting data (e.g., CSV or Excel) for further analysis or reporting.
 
-![HR Analytics Overview](https://github.com/)
+![HR Analytics Overview](https://github.com/frankie323/assets/blob/main/HR%20Dashboard.png)
 ### Attrition Rate
 - **Overall Attrition Rate:** 10.8%
 - **Department with the Highest Attrition Rate:** Finance (16.2%)
@@ -78,9 +78,6 @@ Include functionality for exporting data (e.g., CSV or Excel) for further analys
 - Women make up only 2.7% of the organization.
 - Managerial rating level and self-performance level often don't align.
 
-![HR Analytics Performance Tracker](https://github.com/)
-
-![HR Analytics Attrition](https://github.com/)
 
 ## Recommendations
 1. **Support Employee Growth:**
