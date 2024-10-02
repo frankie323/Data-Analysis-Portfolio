@@ -2,7 +2,7 @@
 
 ## About
 Hey There! 
-I'm Frank, a Business Data Analyst. 
+I'm Frank, a Business Data Analyst based in the beautiful city of Toronto. 
 What excites me most is the constant evolution of the field. Data is everywhere, and being able to transform numbers to create strategic solutions or operational insights feels like a superpower. In my free time, when I'm not out enjoying the thrills of nature or spending valuable time with family, I experiment with visualization tools, discovering insights that can transform processes, staying updated on the latest trends, and expanding my skill set to become a more well-rounded analyst. I'm always up for a challenge, whether it's working collaboratively with a team or independently on a project.
 
 This is a repository where I showcase my skills, share projects, and track my progress in Business Data Analytics and front-end development.
