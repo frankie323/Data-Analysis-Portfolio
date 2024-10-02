@@ -10,3 +10,6 @@
 [submodule "Walmart_Sales"]
 	path = Walmart_Sales
 	url = https://github.com/frankie323/Walmart_Sales
+[submodule "Netflix-Movies-Data-Analysis-SQL"]
+	path = Netflix-Movies-Data-Analysis-SQL
+	url = https://github.com/frankie323/Netflix-Movies-Data-Analysis-SQL
