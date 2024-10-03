@@ -1,7 +1,4 @@
 # Customer-Behaviour-Analysis-MSSQL-Server
-# MSSQL
-
-![image]
 
 
 This project, i part of a case study that is available here![link]((https://8weeksqlchallenge.com/case-study-1/)), focuses on analyzing customer spending patterns, trends, and influencing factors to gain insights into their preferences, purchasing habits, and potential areas for improvement in menu offerings or marketing strategies for a dining establishment.
