@@ -1,7 +1,7 @@
 # Customer-Behaviour-Analysis-MSSQL-Server
 
 
-This project, i part of a case study that is available here[link]((https://8weeksqlchallenge.com/case-study-1/)), focuses on analyzing customer spending patterns, trends, and influencing factors to gain insights into their preferences, purchasing habits, and potential areas for improvement in menu offerings or marketing strategies for a dining establishment.
+This project, i part of a case study that is available here [link](https://8weeksqlchallenge.com/case-study-1/), focuses on analyzing customer spending patterns, trends, and influencing factors to gain insights into their preferences, purchasing habits, and potential areas for improvement in menu offerings or marketing strategies for a dining establishment.
 
 ## Background
 At the beginning of 2021, Danny, a passionate lover of Japanese cuisine, decided to take a risk and open a charming little restaurant featuring his three favorite dishes: sushi, curry, and ramen. Danny’s Diner needs your help to stay afloat. Although the restaurant has collected some basic data from its initial months of operation, they are unsure how to utilize this data to improve thitsusiness.
