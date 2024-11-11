@@ -1,7 +1,6 @@
 ## Project Overview
 
 **Project Title**: Trinity Stores Sales Analysis 
-**Level**: Beginner  
 **Database**: `Trinity_Stores_db`
 
 This project is to examine, clean, and evaluate the sales data from Trinity Stores. This involves setting up a retail sales database, conducting exploratory data analysis (EDA), and using SQL queries to answer relevant business questions.
