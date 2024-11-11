@@ -37,7 +37,7 @@ This case study aims to analyze the performance of StellarTech's products by exa
 
   - Goal: To determine growth rates in sales and revenue YoY, enabling StellarTech to evaluate performance trends across regions and product segments.
   - Method: Calculated YoY percentage change in units sold and revenue by comparing each year’s performance data.
-  - Insights: Uncovered that StellarTech’s flagship smartphone line grew by 18% YoY in the North American market, while other segments like home appliances showed a 5% decline in revenue across Europe. This suggested strong demand for premium tech products but a need to reassess the marketing strategy for appliances in Europe.
+  - Insights: Uncovered that StellarTech’s accesories line grew by 32% YoY with 90% of that increase recoreded in the US market, while other segments like gadgets showed a 5% decline in revenue across Europe. This suggested strong demand for premium tech products but a need to reassess the marketing strategy for appliances in Europe.
 
 ### 2 Year-to-Go (YTG) Analysis
 
