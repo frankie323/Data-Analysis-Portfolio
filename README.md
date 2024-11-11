@@ -31,7 +31,7 @@ This is a repository where I showcase my skills, share projects, and track my pr
 
 In this section, I will briefly list data analytics projects and describe the technology stack used to solve each case.
 
-## Analyzing the Factors Contributing to the Success of a Movie
+## 1 Analyzing the Factors Contributing to the Success of a Movie
 
 #### Goal: To determine the most popular genre year-over-year and the properties associated with movies with the highest revenue.
 
@@ -45,7 +45,7 @@ Code: [TMDB Dataset](https://github.com/frankie323/TMDB-Movies-Dataset/blob/a2e1
 
 In this section, I will briefly list data analytics projects and describe the technology stack used to solve each case.
 
-## Sales and Sentiments Analysis for StellarTech Inc.
+## 2 Sales and Sentiments Analysis for StellarTech Inc.
 
 #### Goal: To determine the most category sales and products sentiments year-over-year.
 
@@ -59,7 +59,7 @@ About the Project: [TMDB Dataset](https://github.com/frankie323/TMDB-Movies-Data
 
 In this section, I will briefly list data analytics projects and describe the technology stack used to solve each case.
 
-## Trinity Stores Data Analysis.
+## 3 Trinity Stores Data Analysis.
 
 #### Goal: To clean existing data and establish a retail sales database.
 
