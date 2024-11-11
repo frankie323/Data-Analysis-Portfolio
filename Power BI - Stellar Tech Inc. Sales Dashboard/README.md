@@ -1,7 +1,7 @@
 # Case Study: Global Product Performance and Sentiment Analysis for StellarTech Inc.
 **Database**: `StellarTech_Inc_db`
 
-![Image]([https://github.com/frankie323/assets/blob/main/StellarTech%20-%20Homepage.png])
+![Image](https://github.com/frankie323/assets/blob/main/StellarTech%20-%20Homepage.png)
 
 ## Company Overview
 
@@ -29,7 +29,7 @@ This case study aims to analyze the performance of StellarTech's products by exa
   - Columns: StateID, Score, Date, Product
   - Purpose: Captures customer sentiment scores for products, allowing analysis of customer satisfaction trends across states and product categories.
 
-![Image]([https://github.com/frankie323/assets/blob/main/Tables.png])
+![Image](https://github.com/frankie323/assets/blob/main/Tables.png)
 
 ## Analysis Approach
 
@@ -69,7 +69,7 @@ This case study aims to analyze the performance of StellarTech's products by exa
   - Method: Sales and sentiment data were analyzed by segment (e.g., premium, budget) and manufacturer to evaluate performance and satisfaction across different product tiers.
   - Insights: Premium products contributed 65% of total revenue and had higher sentiment scores than budget models, indicating a strong preference among customers for premium-quality products. The findings suggested that StellarTech could benefit from further investment in the premium segment, with additional marketing for specific budget models that performed well in emerging markets.
 
-![Image]([https://github.com/frankie323/assets/blob/main/StellarTech%20-%20Dashboard.png])
+![Image](https://github.com/frankie323/assets/blob/main/StellarTech%20-%20Dashboard.png)
 
 ## Key Findings and Recommendations
 
@@ -88,4 +88,4 @@ This case study aims to analyze the performance of StellarTech's products by exa
 ## Conclusion
 This case study provides a comprehensive overview of StellarTech Inc.’s product performance, with insights into regional sales trends, revenue drivers, and customer satisfaction. By addressing identified opportunities and challenges, StellarTech can fine-tune its global strategy, improve customer satisfaction, and maximize profitability across diverse markets.
 
-![Image]([https://github.com/frankie323/assets/blob/main/StellarTech%20-%20Ratings%20Page.png])
+![Image](https://github.com/frankie323/assets/blob/main/StellarTech%20-%20Ratings%20Page.png)
