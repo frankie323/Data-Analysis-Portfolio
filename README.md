@@ -9,7 +9,7 @@ This is a repository where I showcase my skills, share projects, and track my pr
 
 ## Table of Contents
 
-- About
+- [About](https://github.com/frankie323/Data-Analysis-Portfolio/edit/main/README.md)
 - Portfolio Projects
 - Python
 
