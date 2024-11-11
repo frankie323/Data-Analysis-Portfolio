@@ -44,4 +44,4 @@ Code: [TMDB Dataset](https://github.com/frankie323/TMDB-Movies-Dataset/blob/a2e1
 - Google Data Analytics Professional Certificate
 
 ## Contacts
-LinkedIn: ![Frank Eluaka](https://www.linkedin.com/in/frank-eluaka/)
+LinkedIn: [Frank Eluaka](https://www.linkedin.com/in/frank-eluaka/)
