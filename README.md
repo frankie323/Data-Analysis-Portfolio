@@ -47,7 +47,7 @@ In this section, I will briefly list data analytics projects and describe the te
 
 ## 2 Sales and Sentiments Analysis for StellarTech Inc.
 
-#### Goal: To determine the most category sales and products sentiments year-over-year.
+#### Goal: To determine the most category sales and product sentiments year-over-year.
 
 Description: StellarTech Inc.’s analysis revealed strong APAC demand for premium products, seasonal sales patterns, and regional sentiment insights, leading to targeted recommendations for market-specific marketing, improved support, and tailored pricing to enhance global performance and customer satisfaction.
 
