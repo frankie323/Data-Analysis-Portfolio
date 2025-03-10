@@ -1,4 +1,4 @@
-# Enhancing Patient Care and Hospital Profitability through MySQL Healthcare Analytics | Data AnalystSQL | Tableau | Excel | Python
+# Enhancing Patient Care and Hospital Profitability through MySQL Healthcare Analytics
 
 ## Introduction
 
