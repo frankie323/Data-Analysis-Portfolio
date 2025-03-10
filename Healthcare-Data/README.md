@@ -1,5 +1,6 @@
 # Enhancing Patient Care and Hospital Profitability through MySQL Healthcare Analytics
 
+![Image](https://github.com/frankie323/Data-Analysis-Portfolio/blob/main/Assets/Healthcare%20Dataset.jpg))
 ## Introduction
 
 With over 1,200 hours of hands-on experience as an EMT, I witnessed the challenges of patient care, from emergency room efficiency to specialized treatment coordination. My background in Economics and my passion for analytics motivated me to explore how data-driven decision-making can enhance patient outcomes while optimizing hospital operations.
